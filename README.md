@@ -1,4 +1,4 @@
-# citlacademy
+# uughacademy
 
 A new Flutter project.
 
